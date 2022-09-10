@@ -1,0 +1,35 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Malappuram
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_51F98155_5855_E1F5_41CF_14870EAA0B8E.label = Art Gallery, Malappuram
+panorama_51FE06BE_5854_20B7_41D2_C3CD151CFB28.label = Art Gallery, Malappuram
+panorama_51FE0A52_5854_23CF_41C5_07F366B03FD2.label = Art Gallery, Malappuram
+panorama_51FE35E9_5854_20DD_41CA_3084EBED9925.label = Art Gallery, Malappuram
+panorama_51FE3C2C_5854_E75B_41CB_43B489CCA5E2.label = Art Gallery, Malappuram
+panorama_51FE3FBC_5854_20BB_41B1_788EDC612E39.label = Art Gallery, Malappuram
+panorama_51FE4DFF_5854_60B5_41AA_3A821BC0DAE6.label = Art Gallery, Malappuram
+panorama_51FE630B_5854_215D_41B7_62E13063FDF2.label = Art Gallery, Malappuram
+panorama_51FE6A5F_5854_63F5_4188_96CC894728E0.label = Art Gallery, Malappuram
+panorama_51FEF8DE_5854_E0F7_41B9_E1D249D11235.label = Art Gallery, Malappuram
+panorama_51FFCE67_5855_E3D5_41CC_38E50C6BAE35.label = Art Gallery, Malappuram
+panorama_51FFD1E3_5854_60CD_416D_CC6A864F7169.label = Art Gallery, Malappuram
+panorama_52C581F2_5855_E0CF_41C2_BB764DC24F0E.label = Art Gallery, Malappuram
